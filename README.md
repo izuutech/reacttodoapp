@@ -1,5 +1,5 @@
 # React Todo App
-This is a Todo App i created while learning react a long while ago
+This is a Todo App I created while learning react a long while ago
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

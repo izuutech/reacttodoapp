@@ -9,7 +9,7 @@ class App extends Component {
   state={
     todos: [
       {id: 1, content: "buy some software"},
-      {id: 2, content: 'play fm2019'}
+      {id: 2, content: 'play fm2022'}
     ]
   }
 
